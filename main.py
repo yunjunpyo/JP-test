@@ -13,6 +13,7 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
-print('변경7')
+
+print('변경44')
 
 # https://www.jetbrains.com/help/pycharm/에서 PyCharm 도움말 참조
