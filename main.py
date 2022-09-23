@@ -14,4 +14,5 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 print('변경7')
+
 # https://www.jetbrains.com/help/pycharm/에서 PyCharm 도움말 참조
